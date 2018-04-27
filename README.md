@@ -18,6 +18,10 @@ Lawoole 并不推崇那些过分最求性能而牺牲代码可读性，编写难
 - Laravel ( [https://laravel.com](https://laravel.com) )
 - Swoole ( [https://www.swoole.com](https://www.swoole.com) )
 
+## 查阅手册
+
+[手册目录](docs/documentation.md)
+
 ## 参与手册编写
 
 我们随时欢迎你参与到 Lawoole 手册的编写中。
