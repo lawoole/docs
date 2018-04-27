@@ -1,5 +1,4 @@
 - ## 起步
-    - 
     - [安装](installation.md)
     - [配置](configuration.md)
     - [目录结构](structure.md)

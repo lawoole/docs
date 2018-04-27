@@ -2,6 +2,8 @@
 
 Lawoole 是基于 Laravel 和 Swoole 的高性能 PHP 框架。
 
+[进入 Lawoole 使用手册](docs/documentation.md)
+
 ## 关于 Lawoole
 
 Laravel 是目前热度最高的 PHP 框架，其在致力于帮助开发者书写最优雅、达意代码的同时，也通过生态链向广大开发者提供了丰富的功能。
@@ -17,10 +19,6 @@ Lawoole 并不推崇那些过分最求性能而牺牲代码可读性，编写难
 
 - Laravel ( [https://laravel.com](https://laravel.com) )
 - Swoole ( [https://www.swoole.com](https://www.swoole.com) )
-
-## 查阅手册
-
-[手册目录](docs/documentation.md)
 
 ## 参与手册编写
 
