@@ -4,9 +4,9 @@ Lawoole is a high-performance PHP framework based on Laravel and Swoole.
 
 ## Select your language
 
-[简体中文](zh-Hans/documentation.md)
-[繁體中文](zh-Hant/documentation.md)
-[English](en/documentation.md)
+- [简体中文](zh-Hans/documentation.md)
+- [繁體中文](zh-Hant/documentation.md)
+- [English](en/documentation.md)
 
 ## About Lawoole
 
