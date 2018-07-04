@@ -8,12 +8,13 @@
     - [安装](installation.md)
     - [配置](configuration.md)
     - [目录结构](structure.md)
+    - [运行](running.md)
 
 - ## 基础
     - [Server](server.md)
     - [Http](http.md)
     - [Homer](homer.md)
-    - [Support](support.md)
+    - [Snowflake](snowflake.md)
     
 - ## 深入
     - [注意事项](attentions.md)
