@@ -8,7 +8,8 @@
 
 Snowflake 算法是 Twitter 设计的一个分布式 ID 生成算法，Snowflake 模块基于 Swoole 对 Snowflake 算法进行了优化，实现了分布式 ID 的生成功能。
 
-Lawoole 的 Snowflake 算法在 Twitter 原始的 Snowflake 算法基础上进行了一定的修改，使其更适应于在 Swoole 环境下生成 ID。在 Lawoole 的 Snowflake 算法中，生成 ID 的位信息含义如下：
+Lawoole 的 Snowflake 算法在 Twitter 原始的 Snowflake 算法基础上进行了一定的修改，使其更适应于在 Swoole 环境下生成 ID。
+在 Lawoole 的 Snowflake 算法中，生成 ID 的位信息含义如下：
 
  0 - 31 | 32 - 36 | 37 - 41 | 42 - 52 | 53 - 63
 :------:|:-------:|:-------:|:-------:|:-------:|

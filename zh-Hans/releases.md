@@ -2,7 +2,7 @@
 
 - [版本定义](#versioning-scheme)
 - [依赖](#dependencies)
-- [Lawoole 0.6](#lawoole-0.6)
+- [Lawoole 1.0](#lawoole-1.0)
 
 <a name="versioning-scheme"></a>
 ## 版本定义
@@ -17,8 +17,10 @@ Lawoole 是基于 Laravel 框架以及 Swoole 扩展的，在不同版本的 Law
  **Lawoole 版本** | **发布时间** | **最低 Laravel 版本** | **最低 Swoole 版本**
 :---|:---|:---|:---|
  0.5 | 2018-06-20 | 5.6 | 1.10.5
- 0.6 | 2018-11-11 | 5.7 | 4.1.0
+ 1.0 | 2019-01-01 | 5.7 | 1.10.5
+ 
+> {notice} 由于 Laravel 的大部分逻辑设计与 Swoole 协程不相兼容，故 Lawoole 不针对协程模式做任何适配，强烈建议在使用 Lawoole 时关闭 Swoole 协程模式，除非你能很好的处理所有的副作用。
 
-<a name="lawoole-0.6"></a>
-## Lawoole 0.6
+<a name="lawoole-1.0"></a>
+## Lawoole 1.0
 

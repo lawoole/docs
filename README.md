@@ -35,5 +35,5 @@ Thank for the shoulders of giants:
 We are very honored to welcome your contribution to the Laravel manual.
 
 If you are submitting documentation for the current stable release, submit it to the corresponding branch.
-For example, documentation for Lawoole 0.6 would be submitted to the `0.6` branch.
+For example, documentation for Lawoole 1.0 would be submitted to the `1.0` branch.
 Documentation intended for the next release of Lawoole should be submitted to the master branch.
