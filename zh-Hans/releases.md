@@ -14,7 +14,7 @@ Lawoole 框架定义版本号的方式与 Laravel 近似，采用 `paradigm.majo
 
 Lawoole 是基于 Laravel 框架以及 Swoole 扩展的，在不同版本的 Lawoole 中，对这两者的依赖也有一定的区别。
 
- **Lawoole 版本** | **发布时间** | **最低 Laravel 版本** | **最低 Swoole 版本**
+ **Lawoole 版本** | **发布时间** | **基于 Laravel 版本** | **最低 Swoole 版本**
 :---|:---|:---|:---|
  0.5 | 2018-06-20 | 5.6 | 1.10.5
  1.0 | 2019-01-01 | 5.7 | 1.10.5
