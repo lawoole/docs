@@ -30,6 +30,10 @@ Thank for the shoulders of giants:
 - Laravel ( [https://laravel.com](https://laravel.com) )
 - Swoole ( [https://www.swoole.com](https://www.swoole.com) )
 
+## Community
+
+- QQ Group: 729916224
+
 ## Contribution Guidelines
 
 We are very honored to welcome your contribution to the Laravel manual.
