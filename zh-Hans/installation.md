@@ -33,4 +33,4 @@
 
 通过 Composer 提供的 `create-project` 命令，可以非常轻松的创建一个标准的 Lawoole 项目：
 
-    composer create-project --prefer-dist lawoole/lawoole blog
+    composer create-project --prefer-dist lawoole/lawoole project-name
